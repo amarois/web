@@ -66,6 +66,8 @@ display:none;
 
 #res_script .ChampResAvecVignette {
 	display:none;
+#res_script .ChampRes {
+	display:none;
 width: 15%;
 	text-align:left;
 	font-size:0.9em;
